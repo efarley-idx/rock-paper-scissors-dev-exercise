@@ -54,7 +54,9 @@ Response:
 
 Assets can be found in the directory `/src/app/assets/images`
 
-Design Link: ![Design Link](https://i.ibb.co/N6zVScB/image-8.png)
+**Design**
+
+![Design Link](https://i.ibb.co/N6zVScB/image-8.png)
 
 ### Branding 
 
