@@ -1,6 +1,6 @@
 # IDX UX Applicant Exercise
 
-Hello and welcome, we here at IDX have designed this development exercise in order for us to get a better idea on your code style, approach to problem solving as well as how you complete development tasks. We will use the code you provide to help inform us about your coding and if you're selected for an interview, we will review your code sample as a group. You should be prepared to discuss your code and answer questions about how you approached the problem, what parts your enjoyed writing, what parts were difficult for you and why you did or did not make certain decisions.
+Hello and welcome, we here at IDX have designed this development exercise in order for us to get a better idea on your code style, approach to problem solving as well as how you complete development tasks. We will use the code you provide to help inform us about your coding and if you're selected for an interview, we will review your code sample as a group. While there is no right or wrong approach to this excercise you should be prepared to discuss your code and answer questions about how you approached the problem, what parts your enjoyed writing, what parts were difficult for you and why you did or did not make certain decisions.
 
 ## Your task
 
