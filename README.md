@@ -46,7 +46,7 @@ Response:
 
 **Boilerplate** This repo is set up with a pre generated _Angular 10_ application using _Angular Material_, _Flex Layout_, and _NgRx_, feel free to use these resources as needed.
 
-**Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique, 
+**Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique.
 
 Assets can be found in the directory `/src/app/assets/images`
 
