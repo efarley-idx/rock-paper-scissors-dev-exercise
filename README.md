@@ -66,11 +66,11 @@ Assets can be found in the directory `/src/app/assets/images`
 
     color: black;
     font-family: Roboto, "Helvetica Neue";
-    font-size: 1em;
+    font-size: 1rem;
 
 **Heading**
 
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 100;
 
 **Sub-heading**
@@ -96,7 +96,7 @@ Assets can be found in the directory `/src/app/assets/images`
 **Gesture name**
 
     color: rgba(0, 0, 0, .65);
-    font-size: 1.75em;
+    font-size: 1.75rem;
     font-weight: 100;
     margin-top: 10px;
 
