@@ -43,6 +43,8 @@ Response:
 
 ## Resources
 
-We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique, 
+**Boilerplate** This repo is set up with a pre generated Angular 10 application using Angular Material, Flex Layout, and NgRx, feel free to use these resources as needed.
+
+**Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique, 
 
 Assets can be found in the directory `/src/app/assets/images`
