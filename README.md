@@ -65,4 +65,4 @@ In order to submit your code follow these steps.
 1. Ensure that `ng e2e` runs your e2e tests.
 1. Delete the `./node_modules` directory.
 1. Zip the `root` directory.
-1. E-mail the .zip file to matt.mcguire@idexpertscorp.com and eric.farley@idexpertscorp.com.
+1. E-mail the `.zip` file to matt.mcguire@idexpertscorp.com and eric.farley@idexpertscorp.com.
