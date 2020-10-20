@@ -10,10 +10,10 @@ You have a fairly simple task, develop a game which you're probably already fami
 
 - **As a** User **I want** to understand the core rules of the game. I.e. Rock smashes Scissors. **So that** I can play the game without confusion.
 - **As a** User **I want** to have a simple user interface that allows me to select my gesture, see my opponents gesture and review the results. **So that** I can play the game with my mouse.
-- **As a** Developer **I want** to have confidence future changes will not cause a regression in my code **So that** I can easily maintain the application.
+- **As a** Developer **I want** to have confidence future changes will not cause a regression in my code using unit testing **So that** I can easily maintain the application.
 - **As a** Developer **I want** to maintain the state of the application using _NgRx_ **So that** I have a single source of truth for the applications state.
 - **As a** Developer **I want** to consume API endpoints to get the available Gestures and get the opponents Gesture **So that** I don't have to define the application data or calculate opponent gestures.
-- **As a** QA Tester **I want** to be able to run automated tests to verify the application works as expected **So that** I can quickly check pull requests for regressions.
+- **As a** QA Tester **I want** to be able to run automated tests using Protractor to verify the application works as expected **So that** I can quickly check pull requests for regressions.
 - **As an** Applicant **I want** to use _Angular_ **So that** I can be fairly evaluated against my competition.
 
 ## Code Formatting
