@@ -26,8 +26,7 @@ You have a fairly simple task, develop a game which you're probably already fami
 
 ## API Endpoints
 
-**Get Gestures**
-`GET` `https://idx-ux-dev-test.herokuapp.com/gestures`
+**Get Gestures**: `GET` => `https://idx-ux-dev-test.herokuapp.com/gestures`
 
 Response:
 
@@ -39,8 +38,7 @@ Response:
       ]
     }
 
-**Get Opponents Gesture**
-`GET` `https://idx-ux-dev-test.herokuapp.com/opponents-gesture`
+**Get Opponents Gesture**: `GET` => `https://idx-ux-dev-test.herokuapp.com/opponents-gesture`
 
 Response:
 
