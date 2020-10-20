@@ -4,7 +4,7 @@ Hello and welcome, we here at IDX have designed this development exercise in ord
 
 ## Your task
 
-You have a fairly simple task, develop a game which you're probably already familiar with; Rock Paper Scissors. However, while at its core that should be a simple task, we'll add some acceptance criteria (AC) to help you showcase your particular skills that we are looking for from our applicants. In addition to the AC you're more than welcome to add whatever flair or personal touch you are compelled to add. You might even find an easter egg if you're astute ;)
+You have a fairly simple task, develop a game which you're probably already familiar with; Rock Paper Scissors. However, while at its core that should be a simple task, we'll add some acceptance criteria (AC) to help you showcase the particular skills that we are looking for from our applicants. In addition to the AC you're more than welcome to add whatever flair or personal touch you are compelled to add. You might even find an easter egg if you're astute ;)
 
 ## Acceptance Criteria
 
