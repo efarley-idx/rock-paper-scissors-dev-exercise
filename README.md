@@ -49,3 +49,17 @@ Response:
 **Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique, 
 
 Assets can be found in the directory `/src/app/assets/images`
+
+## Where to start
+
+1. Clone the repository to your local machine.
+1. Run the command `npm install`.
+1. Begin making your changes.
+
+## How to submit your code
+
+In order to submit your code follow these steps.
+
+1. Delete the `./node_modules` directory.
+1. Zip the `root` directory.
+1. E-mail the zip file to matt.mcguire@idexpertscorp.com and eric.farley@idexpertscorp.com.
