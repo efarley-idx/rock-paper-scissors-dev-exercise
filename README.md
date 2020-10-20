@@ -43,7 +43,7 @@ Response:
 Response:
 
     {
-      gesture: Gestures
+      gesture: Gestures<["Rock", "Paper", "Scissors"]>
     }
 
 ## Resources
