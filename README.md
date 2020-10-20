@@ -54,7 +54,7 @@ Response:
 
 Assets can be found in the directory `/src/app/assets/images`
 
-Design Link: https://idexpertscorp.box.com/v/rock-paper-scissors-mockup
+Design Link: [url=https://ibb.co/mC7D8fW][img]https://i.ibb.co/N6zVScB/image-8.png[/img][/url]
 
 ### Branding 
 
