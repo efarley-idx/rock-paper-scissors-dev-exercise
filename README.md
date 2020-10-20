@@ -48,7 +48,7 @@ Response:
 
 **How to play?** _Rock_ beats _Scissors_, _Scissors_ beats _Paper_, and _Paper_ beats _Rock_.
 
-**Boilerplate** This repo is set up with a pre generated _Angular 10_ application using _Angular Material_, _Flex Layout_, and _NgRx_, feel free to use these resources as needed.
+**Boilerplate** This repo is set up with a pre generated _Angular 10_ application using _Angular Material (Purple/Amber Theme)_, _Flex Layout_, and _NgRx_, feel free to use these resources as needed.
 
 **Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add your own flair to the design, or blow us away with something unique.
 
