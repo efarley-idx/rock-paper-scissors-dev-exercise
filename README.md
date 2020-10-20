@@ -30,18 +30,18 @@ You have a fairly simple task, develop a game which you're probably already fami
 
 Response:
 
-    enum Gestures {
-      Rock,
-      Paper,
-      Scissors
-    }
+    [
+      "Rock",
+      "Paper",
+      "Scissors"
+    ]
 
 `GET` `https://idx-ux-dev-test.herokuapp.com/opponents-gesture`
 
 Response:
 
     {
-      gesture: Gestures
+      "gesture": Gestures
     }
 
 ## Resources
