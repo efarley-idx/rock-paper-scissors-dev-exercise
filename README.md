@@ -56,7 +56,7 @@ Assets can be found in the directory `/src/app/assets/images`
 
 **Design**
 
-![Design Link](https://i.ibb.co/N6zVScB/image-8.png)
+![Design Link](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/image+(8).png)
 
 ### Branding 
 
