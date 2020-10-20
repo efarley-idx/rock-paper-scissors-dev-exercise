@@ -14,6 +14,7 @@ You have a fairly simple task, develop a game which you're probably already fami
 - **As a** Developer **I want** to maintain the state of the application using _NgRx_ **So that** I have a single source of truth for the applications state.
 - **As a** Developer **I want** to consume API endpoints to get the available Gestures and get the opponents Gesture **So that** I don't have to define the application data or calculate opponent gestures.
 - **As a** QA Tester **I want** to be able to run automated tests to verify the application works as expected **So that** I can quickly check pull requests for regressions.
+- **As a** Applicant **I want** to use _Angular_ **So that** I can be fairly evaluated against my competition.
 
 ## Code Formatting
 
@@ -43,7 +44,7 @@ Response:
 
 ## Resources
 
-**Boilerplate** This repo is set up with a pre generated Angular 10 application using Angular Material, Flex Layout, and NgRx, feel free to use these resources as needed.
+**Boilerplate** This repo is set up with a pre generated _Angular 10_ application using _Angular Material_, _Flex Layout_, and _NgRx_, feel free to use these resources as needed.
 
 **Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add you own flair to the design, or blow us away with something unique, 
 
