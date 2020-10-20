@@ -82,7 +82,7 @@ Assets can be found in the directory `/src/app/assets/images`
     background-color: #673ab7;
     color: white;
 
-**Unselected gesture image**
+**Un-selected gesture image**
 
     background-color: #aeabb0;
     border-radius: 100px;
@@ -110,6 +110,7 @@ Assets can be found in the directory `/src/app/assets/images`
 
 In order to submit your code follow these steps.
 
+1. Ensure that you have satisfied the acceptance criteria.
 1. Ensure that `ng serve` serves your application without errors.
 1. Ensure that `ng test` runs your unit tests.
 1. Ensure that `ng e2e` runs your e2e tests.
