@@ -56,9 +56,15 @@ Response:
 
 Assets can be found in the directory `/src/app/assets/images`
 
-**Design**
+**Designs**
 
-![Design Link](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/image+(8).png)
+_Landing Screen_
+
+![Landing Screen](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/image+(8).png)
+
+_Results Screen_
+
+![Results Screen](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/image+(9).png)
 
 ### Branding 
 
