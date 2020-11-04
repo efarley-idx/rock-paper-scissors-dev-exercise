@@ -11,7 +11,8 @@ You have a fairly simple task, develop a game which you're probably already fami
 ## Acceptance Criteria
 
 - **As a** User **I want** to understand the core rules of the game. I.e. Rock smashes Scissors. **So that** I can play the game without confusion.
-- **As a** User **I want** to have a simple user interface that allows me to select my gesture, see my opponents gesture and review the results. **So that** I can play the game with my mouse.
+- **As a** User **I want** to have a simple user interface that allows me to select my gesture, see my opponents gesture and review the results. **So that** I can play the game.
+- **As a** User **I want** to navigate to a page that displays my previous matches. **So that** I can see the previous game results since loading the page.
 - **As a** Developer **I want** to have confidence future changes will not cause a regression in my code using unit testing **So that** I can easily maintain the application.
 - **As a** Developer **I want** to maintain the state of the application using _NgRx_ **So that** I have a single source of truth for the applications state.
 - **As a** Developer **I want** to consume API endpoints to get the available Gestures and get the opponents Gesture **So that** I don't have to define the application data or calculate opponent gestures.
@@ -52,7 +53,7 @@ Response:
 
 **Boilerplate** This repo is set up with a pre generated _Angular 10_ application using _Angular Material (Purple/Amber Theme)_, _Flex Layout_, and _NgRx_, feel free to use these resources as needed.
 
-**Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design. However, if you're inclined feel free to add your own flair to the design, or blow us away with something unique.
+**Design** We have provided you with a simple design to follow and the necessary resources to implement it since we know that not everyone likes doing UX design, don't worry about making it pixel perfect or anything. Also, If you're inclined feel free to add your own flair to the design, or blow us away with something unique and do your own design.
 
 Assets can be found in the directory `/src/app/assets/images`
 
@@ -66,45 +67,18 @@ _Results Screen_
 
 ![Results Screen](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/image+(9).png)
 
+_Previous Matches Screen_
+
+![Previous Matches Screen](https://idx-ux-dev-test.s3-us-west-2.amazonaws.com/Screen+Shot+2020-11-04+at+10.19.51+AM.png)
+
 ### Branding 
 
-**Body**
-
-    color: black;
-    font-family: Roboto, "Helvetica Neue";
-    font-size: 1rem;
-
-**Heading**
-
-    font-size: 3rem;
-    font-weight: 100;
-
-**Sub-heading**
-
-    color: rgba(0, 0, 0, .65);
-
-**Ready button**
-
-    background-color: #673ab7;
-    color: white;
-
-**Un-selected gesture image**
-
-    background-color: #aeabb0;
-    border-radius: 100px;
-    height: 200px;
-    width: 200px;
-
-**Selected gesture image**
-
-    background-color: #673ab7;
-
-**Gesture name**
-
-    color: rgba(0, 0, 0, .65);
-    font-size: 1.75rem;
-    font-weight: 100;
-    margin-top: 10px;
+**Body** Font Family: Roboto, "Helvetica Neue".
+**Background Color** Hex: #b2c2d4.
+**Primary Color** Hex: #673ab7 (purple).
+**Heading** Size: 3rem, Weight: 100.
+**Sub-heading** Color: rgba(0, 0, 0, .65).
+**Gesture Background** Hex: #aeabb0 (grey).
 
 ## Where to start
 
