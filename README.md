@@ -73,12 +73,12 @@ _Previous Matches Screen_
 
 ### Branding 
 
-**Body** Font Family: Roboto, "Helvetica Neue".
-**Background Color** Hex: #b2c2d4.
-**Primary Color** Hex: #673ab7 (purple).
-**Heading** Size: 3rem, Weight: 100.
-**Sub-heading** Color: rgba(0, 0, 0, .65).
-**Gesture Background** Hex: #aeabb0 (grey).
+**Body** Font Family: Roboto, "Helvetica Neue". 
+**Background Color** Hex: #b2c2d4. 
+**Primary Color** Hex: #673ab7; The deeppurple-amber material theme is provided, this is the primary color. 
+**Heading** Size: 3rem, Weight: 100. 
+**Sub-heading** Color: rgba(0, 0, 0, .65). 
+**Gesture Background Color** Hex: #aeabb0 (grey). 
 
 ## Where to start
 
